@@ -13,7 +13,7 @@ Telegram bot resmi untuk ekosistem **$REDBALLOON**:
 
 Klik tombol di bawah ini untuk langsung deploy:
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/new/template?template=https://github.com/USERNAME/RedBalloonPilotBot)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/new/template?template=https://github.com/Peerlessuniverse/RedBalloonPilotBot)
 
 > Setelah klik, Railway akan:
 > - Fork template ini ke akun GitHub kamu (kalau perlu)
